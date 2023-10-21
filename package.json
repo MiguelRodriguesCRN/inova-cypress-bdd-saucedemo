@@ -1,0 +1,15 @@
+{
+  "name": "inova-cypress-bdd-saucedemo",
+  "version": "1.0.0",
+  "description": "inova-cypress-bdd-saucedemo | BootCamp",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "cypress": "^13.3.2"
+  }
+}

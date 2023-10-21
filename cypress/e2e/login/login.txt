@@ -1,0 +1,9 @@
+Contexto:
+
+    Dado que eu acesse a página de autenticação do site soucedemo
+
+    Cenario: Autenticação válida
+
+    Quando eu  Quando eu digitar o usario "locked_out_user"
+    E digitar a senha "secret_sauce"
+    Então deve ser exbida a palavra "Products" e um "carrinho"
